@@ -6,3 +6,4 @@ Please use Git commands to add your name to this file and commit your changes ba
 
 Comment/Names:
 Eric was here
+Scott finally made it!
